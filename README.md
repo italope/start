@@ -1,2 +1,1 @@
-# start
-Inicio dos estudos
+# Start
